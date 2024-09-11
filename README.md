@@ -1,4 +1,6 @@
 # top android studio tips for flutter
+this Blog has a video! you can watch that as well : https://youtu.be/yB267xvz_Cs?si=LbO_oqWjJ7OLQKrx
+
 What's up, Flutter Devs! if you are one of those rich devs with a high-end laptop to run this monster, well today We’re diving into some awesome tips and shortcuts of android studio for flutter development.
 
 
