@@ -31,3 +31,6 @@ selecting an entire widget in flutter could get really hard sometimes, consideri
 ![tip5](https://github.com/HoveredCube/top_android_studio_tips_for_flutter/blob/main/androidstudiotip5.png)
 ### Tip Number 5: Let's be Lazy
 as creating stateless and stateful widgets is repeatedly done, let's make it easy by using two simple code snippets, you can quickly generate a template for stateless and stateful widgets by simply typing stless for stateless and stful for stateful widget, now hit enter and name your widget, and boom, you just saved yourself a lot of time! 
+
+
+Check out My YouTube channel : https://www.youtube.com/@HoveredCubeOfficial
