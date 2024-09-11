@@ -9,7 +9,7 @@ ___
 
 ![tip1](https://github.com/HoveredCube/top_android_studio_tips_for_flutter/blob/main/androidstudiotip1.png)
 ### Tip Number 1 : Widget Definitions Without the Hassle
-Quickly view widget definitions without leaving your current file. Press **Ctrl + Shift + I** (or **Cmd + Shift + I** on Mac) to pop up the widget’s definitions without navigating to it's file.
+Quickly view widget definitions without leaving your current file. Press **Ctrl + Shift + I** (or **Cmd + Shift + I** on Mac) to pop up the widget’s definitions without navigating to it's file. \n
 
 
 
