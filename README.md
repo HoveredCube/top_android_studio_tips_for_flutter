@@ -5,7 +5,7 @@ this Blog has a video! you can watch that as well : https://youtu.be/yB267xvz_Cs
 What's up, Flutter Devs! if you are one of those rich devs with a high-end laptop to run this monster, well today We’re diving into some awesome tips and shortcuts of android studio for flutter development.
 
 
-
+___
 
 ![tip1](https://github.com/HoveredCube/top_android_studio_tips_for_flutter/blob/main/androidstudiotip1.png)
 ### Tip Number 1 : Widget Definitions Without the Hassle
